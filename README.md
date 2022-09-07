@@ -1,2 +1,3 @@
-# internal-spa-starter
-Vite Template for creating a Modern React SPA
+#Interlal SPA Starter
+
+Vite Starter template for creating a Modern React Single Page App.
