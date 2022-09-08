@@ -4,6 +4,8 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
+    "start": "vite",
+    "tests": "npx cypress open --component",
     "dev": "vite",
     "build": "tsc && vite build",
     "preview": "vite preview",
